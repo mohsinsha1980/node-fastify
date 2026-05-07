@@ -1,0 +1,7 @@
+logs/
+node_modules/*
+dist/
+.env
+.env.dev
+.env.prod
+pnpm-lock.yaml
